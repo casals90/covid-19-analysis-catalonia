@@ -1,1 +1,1 @@
-# covid19-analysis-catalonia
+# covid-19-analysis-catalonia
